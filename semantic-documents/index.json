@@ -1,0 +1,2338 @@
+{
+  "count": 161,
+  "cards": [
+    {
+      "id": "dim.1",
+      "file": "dim__1.md",
+      "type": "Dimension",
+      "label": "Dimension 1: Strategy, Leadership & Value Realization",
+      "status": "current",
+      "keywords": [
+        "dim",
+        "dimension",
+        "leadership",
+        "realization",
+        "strategy",
+        "value"
+      ]
+    },
+    {
+      "id": "criterion.1_1",
+      "file": "criterion__1_1.md",
+      "type": "Criterion",
+      "label": "1.1 AI & Agentic Vision / Ambition (fit autonomy, augmentation-first)",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "ai",
+        "ambition",
+        "augmentation-first",
+        "autonomy",
+        "criterion",
+        "dim-1",
+        "fit",
+        "vision"
+      ]
+    },
+    {
+      "id": "criterion.1_2",
+      "file": "criterion__1_2.md",
+      "type": "Criterion",
+      "label": "1.2 Business-AI Strategic Alignment",
+      "status": "current",
+      "keywords": [
+        "alignment",
+        "business-ai",
+        "criterion",
+        "dim-1",
+        "strategic"
+      ]
+    },
+    {
+      "id": "criterion.1_3",
+      "file": "criterion__1_3.md",
+      "type": "Criterion",
+      "label": "1.3 Executive Sponsorship & Accountability",
+      "status": "current",
+      "keywords": [
+        "accountability",
+        "criterion",
+        "dim-1",
+        "executive",
+        "sponsorship"
+      ]
+    },
+    {
+      "id": "criterion.1_4",
+      "file": "criterion__1_4.md",
+      "type": "Criterion",
+      "label": "1.4 Prioritization, Portfolio Focus & Value Discernment",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-1",
+        "discernment",
+        "focus",
+        "portfolio",
+        "prioritization",
+        "value"
+      ]
+    },
+    {
+      "id": "criterion.1_5",
+      "file": "criterion__1_5.md",
+      "type": "Criterion",
+      "label": "1.5 Investment & Funding Model",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-1",
+        "funding",
+        "investment",
+        "model"
+      ]
+    },
+    {
+      "id": "criterion.1_6",
+      "file": "criterion__1_6.md",
+      "type": "Criterion",
+      "label": "1.6 Value Definition & Benefits Realization",
+      "status": "current",
+      "keywords": [
+        "benefits",
+        "criterion",
+        "definition",
+        "dim-1",
+        "realization",
+        "value"
+      ]
+    },
+    {
+      "id": "criterion.1_7",
+      "file": "criterion__1_7.md",
+      "type": "Criterion",
+      "label": "1.7 Sourcing & Stack Strategy (2026)",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-1",
+        "sourcing",
+        "stack",
+        "strategy"
+      ]
+    },
+    {
+      "id": "criterion.1_8",
+      "file": "criterion__1_8.md",
+      "type": "Criterion",
+      "label": "1.8 Adaptability & Pattern Resilience (build-to-delete)",
+      "status": "current",
+      "keywords": [
+        "adaptability",
+        "build-to-delete",
+        "criterion",
+        "dim-1",
+        "pattern",
+        "resilience"
+      ]
+    },
+    {
+      "id": "dim.2",
+      "file": "dim__2.md",
+      "type": "Dimension",
+      "label": "Dimension 2: Knowledge Building & Capability Reuse",
+      "status": "current",
+      "keywords": [
+        "building",
+        "capability",
+        "dim",
+        "dimension",
+        "knowledge",
+        "knowledge-building-&-capability-reuse",
+        "reuse"
+      ]
+    },
+    {
+      "id": "criterion.2_1",
+      "file": "criterion__2_1.md",
+      "type": "Criterion",
+      "label": "2.1 Knowledge Capture & Codification",
+      "status": "current",
+      "keywords": [
+        "capture",
+        "codification",
+        "criterion",
+        "dim-2",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "criterion.2_2",
+      "file": "criterion__2_2.md",
+      "type": "Criterion",
+      "label": "2.2 Skill / Capability Packaging (Assetization)",
+      "status": "current",
+      "keywords": [
+        "assetization",
+        "capability",
+        "criterion",
+        "dim-2",
+        "packaging",
+        "skill"
+      ]
+    },
+    {
+      "id": "criterion.2_3",
+      "file": "criterion__2_3.md",
+      "type": "Criterion",
+      "label": "2.3 Reuse Registry / Marketplace & Discovery",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-2",
+        "discovery",
+        "marketplace",
+        "registry",
+        "reuse"
+      ]
+    },
+    {
+      "id": "criterion.2_4",
+      "file": "criterion__2_4.md",
+      "type": "Criterion",
+      "label": "2.4 Reuse Governance, Quality & Security",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-2",
+        "governance",
+        "quality",
+        "reuse",
+        "security"
+      ]
+    },
+    {
+      "id": "criterion.2_5",
+      "file": "criterion__2_5.md",
+      "type": "Criterion",
+      "label": "2.5 Trajectory Capture & Learning Flywheel",
+      "status": "current",
+      "keywords": [
+        "capture",
+        "criterion",
+        "dim-2",
+        "flywheel",
+        "learning",
+        "trajectory"
+      ]
+    },
+    {
+      "id": "criterion.2_6",
+      "file": "criterion__2_6.md",
+      "type": "Criterion",
+      "label": "2.6 Measurement of Reuse & Value",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-2",
+        "measurement",
+        "reuse",
+        "value"
+      ]
+    },
+    {
+      "id": "criterion.2_7",
+      "file": "criterion__2_7.md",
+      "type": "Criterion",
+      "label": "2.7 Operating Model, Ownership & Incentives",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-2",
+        "incentives",
+        "model",
+        "operating",
+        "ownership"
+      ]
+    },
+    {
+      "id": "dim.3",
+      "file": "dim__3.md",
+      "type": "Dimension",
+      "label": "Dimension 3: Data, Knowledge Sources & Retrieval",
+      "status": "current",
+      "keywords": [
+        "data",
+        "dim",
+        "dimension",
+        "knowledge",
+        "retrieval",
+        "sources"
+      ]
+    },
+    {
+      "id": "criterion.3_1",
+      "file": "criterion__3_1.md",
+      "type": "Criterion",
+      "label": "3.1 Proprietary Data Richness & Strategic Fit",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "data",
+        "dim-3",
+        "fit",
+        "proprietary",
+        "richness",
+        "strategic"
+      ]
+    },
+    {
+      "id": "criterion.3_2",
+      "file": "criterion__3_2.md",
+      "type": "Criterion",
+      "label": "3.2 Knowledge Source Inventory, Ownership & Freshness",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-3",
+        "freshness",
+        "inventory",
+        "knowledge",
+        "ownership",
+        "source"
+      ]
+    },
+    {
+      "id": "criterion.3_3",
+      "file": "criterion__3_3.md",
+      "type": "Criterion",
+      "label": "3.3 Data Accessibility & Integration (fit-for-purpose)",
+      "status": "current",
+      "keywords": [
+        "accessibility",
+        "criterion",
+        "data",
+        "dim-3",
+        "fit-for-purpose",
+        "integration"
+      ]
+    },
+    {
+      "id": "criterion.3_4",
+      "file": "criterion__3_4.md",
+      "type": "Criterion",
+      "label": "3.4 Data Quality & Readiness",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "data",
+        "dim-3",
+        "quality",
+        "readiness"
+      ]
+    },
+    {
+      "id": "criterion.3_5",
+      "file": "criterion__3_5.md",
+      "type": "Criterion",
+      "label": "3.5 Retrieval & Context Engineering (RAG, grounding)",
+      "status": "current",
+      "keywords": [
+        "context",
+        "criterion",
+        "dim-3",
+        "engineering",
+        "grounding",
+        "rag",
+        "retrieval"
+      ]
+    },
+    {
+      "id": "criterion.3_6",
+      "file": "criterion__3_6.md",
+      "type": "Criterion",
+      "label": "3.6 Data Governance, Privacy & Rights for AI/Agent Use",
+      "status": "current",
+      "keywords": [
+        "ai/agent",
+        "criterion",
+        "data",
+        "dim-3",
+        "governance",
+        "privacy",
+        "rights",
+        "use"
+      ]
+    },
+    {
+      "id": "dim.4",
+      "file": "dim__4.md",
+      "type": "Dimension",
+      "label": "Dimension 4: Agent Platform, Harness Engineering & Operations (incl. Autonomy)",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "agent-platform",
+        "autonomy",
+        "dim",
+        "dimension",
+        "engineering",
+        "harness",
+        "incl",
+        "operations",
+        "platform"
+      ]
+    },
+    {
+      "id": "criterion.4_1",
+      "file": "criterion__4_1.md",
+      "type": "Criterion",
+      "label": "4.1 Use-Case Selection & Pattern Fit",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-4",
+        "fit",
+        "pattern",
+        "selection",
+        "use-case"
+      ]
+    },
+    {
+      "id": "criterion.4_2",
+      "file": "criterion__4_2.md",
+      "type": "Criterion",
+      "label": "4.2 Harness, Skills & Runtime Strategy",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-4",
+        "harness",
+        "runtime",
+        "skills",
+        "strategy"
+      ]
+    },
+    {
+      "id": "criterion.4_3",
+      "file": "criterion__4_3.md",
+      "type": "Criterion",
+      "label": "4.3 Agent Architecture & Context Engineering",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "architecture",
+        "context",
+        "criterion",
+        "dim-4",
+        "engineering"
+      ]
+    },
+    {
+      "id": "criterion.4_4",
+      "file": "criterion__4_4.md",
+      "type": "Criterion",
+      "label": "4.4 Graduation to Autonomy (in-loop -> operator -> out-of-loop)",
+      "status": "current",
+      "keywords": [
+        "autonomy",
+        "criterion",
+        "dim-4",
+        "graduation",
+        "in-loop",
+        "operator",
+        "out-of-loop"
+      ]
+    },
+    {
+      "id": "criterion.4_5",
+      "file": "criterion__4_5.md",
+      "type": "Criterion",
+      "label": "4.5 Evaluation & Quality (Evals)",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-4",
+        "evals",
+        "evaluation",
+        "quality"
+      ]
+    },
+    {
+      "id": "criterion.4_6",
+      "file": "criterion__4_6.md",
+      "type": "Criterion",
+      "label": "4.6 AgentOps: Observability, Reliability, Cost & Trajectory Capture",
+      "status": "current",
+      "keywords": [
+        "agentops",
+        "capture",
+        "cost",
+        "criterion",
+        "dim-4",
+        "observability",
+        "reliability",
+        "trajectory"
+      ]
+    },
+    {
+      "id": "dim.5",
+      "file": "dim__5.md",
+      "type": "Dimension",
+      "label": "Dimension 5: Agentic Platform & Control Plane (Operating Model)",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "agentic-platform-&-control-plane-(operating-model)",
+        "control",
+        "dim",
+        "dimension",
+        "model",
+        "operating",
+        "plane",
+        "platform"
+      ]
+    },
+    {
+      "id": "criterion.5_1",
+      "file": "criterion__5_1.md",
+      "type": "Criterion",
+      "label": "5.1 Platform Ownership & Platform-as-Product",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-5",
+        "ownership",
+        "platform",
+        "platform-as-product"
+      ]
+    },
+    {
+      "id": "criterion.5_2",
+      "file": "criterion__5_2.md",
+      "type": "Criterion",
+      "label": "5.2 Golden Paths & Build/Run Operating Model",
+      "status": "current",
+      "keywords": [
+        "build/run",
+        "criterion",
+        "dim-5",
+        "golden",
+        "model",
+        "operating",
+        "paths"
+      ]
+    },
+    {
+      "id": "criterion.5_3",
+      "file": "criterion__5_3.md",
+      "type": "Criterion",
+      "label": "5.3 Governed Use-Case & PoC Intake",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-5",
+        "governed",
+        "intake",
+        "poc",
+        "use-case"
+      ]
+    },
+    {
+      "id": "criterion.5_4",
+      "file": "criterion__5_4.md",
+      "type": "Criterion",
+      "label": "5.4 Reference Patterns & Architectural Governance by Agent Type/Autonomy",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "architectural",
+        "criterion",
+        "dim-5",
+        "governance",
+        "patterns",
+        "reference",
+        "type/autonomy"
+      ]
+    },
+    {
+      "id": "criterion.5_5",
+      "file": "criterion__5_5.md",
+      "type": "Criterion",
+      "label": "5.5 Control-Plane Primitives: Registry, Identity, Gateways & Observability",
+      "status": "current",
+      "keywords": [
+        "control-plane",
+        "criterion",
+        "dim-5",
+        "gateways",
+        "identity",
+        "observability",
+        "primitives",
+        "registry"
+      ]
+    },
+    {
+      "id": "criterion.5_6",
+      "file": "criterion__5_6.md",
+      "type": "Criterion",
+      "label": "5.6 Orchestration, Durable-Execution Runtime & Tooling/Connector Catalog",
+      "status": "current",
+      "keywords": [
+        "catalog",
+        "criterion",
+        "dim-5",
+        "durable-execution",
+        "orchestration",
+        "runtime",
+        "tooling/connector"
+      ]
+    },
+    {
+      "id": "criterion.5_7",
+      "file": "criterion__5_7.md",
+      "type": "Criterion",
+      "label": "5.7 Interoperability, Integration & Build-vs-Buy / Topology",
+      "status": "current",
+      "keywords": [
+        "build-vs-buy",
+        "criterion",
+        "dim-5",
+        "integration",
+        "interoperability",
+        "topology"
+      ]
+    },
+    {
+      "id": "criterion.5_8",
+      "file": "criterion__5_8.md",
+      "type": "Criterion",
+      "label": "5.8 Cross-Team Alignment (Governance, Data, Quality)",
+      "status": "current",
+      "keywords": [
+        "alignment",
+        "criterion",
+        "cross-team",
+        "data",
+        "dim-5",
+        "governance",
+        "quality"
+      ]
+    },
+    {
+      "id": "dim.6",
+      "file": "dim__6.md",
+      "type": "Dimension",
+      "label": "Dimension 6: Agentic Workflow Redesign & Human-AI Pairing",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "agentic-workflow-redesign-&-human-ai-pairing",
+        "dim",
+        "dimension",
+        "human-ai",
+        "pairing",
+        "redesign",
+        "workflow"
+      ]
+    },
+    {
+      "id": "criterion.6_1",
+      "file": "criterion__6_1.md",
+      "type": "Criterion",
+      "label": "6.1 Locating the Agentic Insertion Point",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "criterion",
+        "dim-6",
+        "insertion",
+        "locating",
+        "point"
+      ]
+    },
+    {
+      "id": "criterion.6_2",
+      "file": "criterion__6_2.md",
+      "type": "Criterion",
+      "label": "6.2 Error Reversibility & Recovery-Cost Assessment",
+      "status": "current",
+      "keywords": [
+        "assessment",
+        "criterion",
+        "dim-6",
+        "error",
+        "recovery-cost",
+        "reversibility"
+      ]
+    },
+    {
+      "id": "criterion.6_3",
+      "file": "criterion__6_3.md",
+      "type": "Criterion",
+      "label": "6.3 Deterministic <-> Agentic Composition",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "composition",
+        "criterion",
+        "deterministic",
+        "dim-6"
+      ]
+    },
+    {
+      "id": "criterion.6_4",
+      "file": "criterion__6_4.md",
+      "type": "Criterion",
+      "label": "6.4 Human-AI Pairing Mode & Its Control Mechanism",
+      "status": "current",
+      "keywords": [
+        "control",
+        "criterion",
+        "dim-6",
+        "human-ai",
+        "mechanism",
+        "mode",
+        "pairing"
+      ]
+    },
+    {
+      "id": "criterion.6_5",
+      "file": "criterion__6_5.md",
+      "type": "Criterion",
+      "label": "6.5 Eval Loop & Reasoning Capture",
+      "status": "current",
+      "keywords": [
+        "capture",
+        "criterion",
+        "dim-6",
+        "eval",
+        "loop",
+        "reasoning"
+      ]
+    },
+    {
+      "id": "criterion.6_6",
+      "file": "criterion__6_6.md",
+      "type": "Criterion",
+      "label": "6.6 Improvement Flywheel & Continuous Agentic Redesign",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "continuous",
+        "criterion",
+        "dim-6",
+        "flywheel",
+        "improvement",
+        "redesign"
+      ]
+    },
+    {
+      "id": "criterion.6_7",
+      "file": "criterion__6_7.md",
+      "type": "Criterion",
+      "label": "6.7 Human-AI Interaction & UX Design",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "design",
+        "dim-6",
+        "human-ai",
+        "interaction",
+        "ux"
+      ]
+    },
+    {
+      "id": "dim.7",
+      "file": "dim__7.md",
+      "type": "Dimension",
+      "label": "Dimension 7: Workforce, Talent & Operating Model",
+      "status": "current",
+      "keywords": [
+        "dim",
+        "dimension",
+        "model",
+        "operating",
+        "talent",
+        "workforce"
+      ]
+    },
+    {
+      "id": "criterion.7_1",
+      "file": "criterion__7_1.md",
+      "type": "Criterion",
+      "label": "7.1 AI Fluency & Role-Based Training (enterprise-wide)",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "criterion",
+        "dim-7",
+        "enterprise-wide",
+        "fluency",
+        "role-based",
+        "training"
+      ]
+    },
+    {
+      "id": "criterion.7_2",
+      "file": "criterion__7_2.md",
+      "type": "Criterion",
+      "label": "7.2 New Agentic-Era Roles & Role Consolidation",
+      "status": "current",
+      "keywords": [
+        "agentic-era",
+        "consolidation",
+        "criterion",
+        "dim-7",
+        "new",
+        "role",
+        "roles"
+      ]
+    },
+    {
+      "id": "criterion.7_3",
+      "file": "criterion__7_3.md",
+      "type": "Criterion",
+      "label": "7.3 Team Structure & Composition",
+      "status": "current",
+      "keywords": [
+        "composition",
+        "criterion",
+        "dim-7",
+        "structure",
+        "team"
+      ]
+    },
+    {
+      "id": "criterion.7_4",
+      "file": "criterion__7_4.md",
+      "type": "Criterion",
+      "label": "7.4 Hiring for the Agentic Era",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "criterion",
+        "dim-7",
+        "era",
+        "hiring"
+      ]
+    },
+    {
+      "id": "criterion.7_5",
+      "file": "criterion__7_5.md",
+      "type": "Criterion",
+      "label": "7.5 Career Paths & Promotion (doing -> supervising -> governing)",
+      "status": "current",
+      "keywords": [
+        "career",
+        "criterion",
+        "dim-7",
+        "doing",
+        "governing",
+        "paths",
+        "promotion",
+        "supervising"
+      ]
+    },
+    {
+      "id": "criterion.7_6",
+      "file": "criterion__7_6.md",
+      "type": "Criterion",
+      "label": "7.6 Operating Model, Topology & Enablement",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-7",
+        "enablement",
+        "model",
+        "operating",
+        "topology"
+      ]
+    },
+    {
+      "id": "criterion.7_7",
+      "file": "criterion__7_7.md",
+      "type": "Criterion",
+      "label": "7.7 Culture & Human-Agent Collaboration",
+      "status": "current",
+      "keywords": [
+        "collaboration",
+        "criterion",
+        "culture",
+        "dim-7",
+        "human-agent"
+      ]
+    },
+    {
+      "id": "dim.8",
+      "file": "dim__8.md",
+      "type": "Dimension",
+      "label": "Dimension 8: Security & Risk",
+      "status": "current",
+      "keywords": [
+        "dim",
+        "dimension",
+        "risk",
+        "security",
+        "security-&-risk"
+      ]
+    },
+    {
+      "id": "criterion.8_1",
+      "file": "criterion__8_1.md",
+      "type": "Criterion",
+      "label": "8.1 Agentic Threat Model & Coverage",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "coverage",
+        "criterion",
+        "dim-8",
+        "model",
+        "threat"
+      ]
+    },
+    {
+      "id": "criterion.8_2",
+      "file": "criterion__8_2.md",
+      "type": "Criterion",
+      "label": "8.2 Agent Identity & Least-Privilege Access",
+      "status": "current",
+      "keywords": [
+        "access",
+        "agent",
+        "criterion",
+        "dim-8",
+        "identity",
+        "least-privilege"
+      ]
+    },
+    {
+      "id": "criterion.8_3",
+      "file": "criterion__8_3.md",
+      "type": "Criterion",
+      "label": "8.3 Runtime Threat Protection & Guardrails (security)",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-8",
+        "guardrails",
+        "protection",
+        "runtime",
+        "security",
+        "threat"
+      ]
+    },
+    {
+      "id": "criterion.8_4",
+      "file": "criterion__8_4.md",
+      "type": "Criterion",
+      "label": "8.4 Observability, Audit Trails & Detection",
+      "status": "current",
+      "keywords": [
+        "audit",
+        "criterion",
+        "detection",
+        "dim-8",
+        "observability",
+        "trails"
+      ]
+    },
+    {
+      "id": "criterion.8_5",
+      "file": "criterion__8_5.md",
+      "type": "Criterion",
+      "label": "8.5 Risk Triage & Right-to-Deploy",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-8",
+        "right-to-deploy",
+        "risk",
+        "triage"
+      ]
+    },
+    {
+      "id": "criterion.8_6",
+      "file": "criterion__8_6.md",
+      "type": "Criterion",
+      "label": "8.6 Incident Response, Containment & Resilience",
+      "status": "current",
+      "keywords": [
+        "containment",
+        "criterion",
+        "dim-8",
+        "incident",
+        "resilience",
+        "response"
+      ]
+    },
+    {
+      "id": "criterion.8_7",
+      "file": "criterion__8_7.md",
+      "type": "Criterion",
+      "label": "8.7 AI Hygiene & Shadow-AI / Human-Trust Risk",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "criterion",
+        "dim-8",
+        "human-trust",
+        "hygiene",
+        "risk",
+        "shadow-ai"
+      ]
+    },
+    {
+      "id": "criterion.8_8",
+      "file": "criterion__8_8.md",
+      "type": "Criterion",
+      "label": "8.8 Developer Endpoint & AI Coding-Tool Security",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "coding-tool",
+        "criterion",
+        "developer",
+        "dim-8",
+        "endpoint",
+        "security"
+      ]
+    },
+    {
+      "id": "dim.9",
+      "file": "dim__9.md",
+      "type": "Dimension",
+      "label": "Dimension 9: Governance & Responsible AI",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "dim",
+        "dimension",
+        "governance",
+        "governance-&-responsible-ai",
+        "responsible"
+      ]
+    },
+    {
+      "id": "criterion.9_1",
+      "file": "criterion__9_1.md",
+      "type": "Criterion",
+      "label": "9.1 Governance Operating Model, Decision Rights & Accountability",
+      "status": "current",
+      "keywords": [
+        "accountability",
+        "criterion",
+        "decision",
+        "dim-9",
+        "governance",
+        "model",
+        "operating",
+        "rights"
+      ]
+    },
+    {
+      "id": "criterion.9_2",
+      "file": "criterion__9_2.md",
+      "type": "Criterion",
+      "label": "9.2 Policy & Policy-as-Code",
+      "status": "current",
+      "keywords": [
+        "criterion",
+        "dim-9",
+        "policy",
+        "policy-as-code"
+      ]
+    },
+    {
+      "id": "criterion.9_3",
+      "file": "criterion__9_3.md",
+      "type": "Criterion",
+      "label": "9.3 Responsible AI Principles & Practices",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "criterion",
+        "dim-9",
+        "practices",
+        "principles",
+        "responsible"
+      ]
+    },
+    {
+      "id": "criterion.9_4",
+      "file": "criterion__9_4.md",
+      "type": "Criterion",
+      "label": "9.4 Explainability, Transparency & Auditability",
+      "status": "current",
+      "keywords": [
+        "auditability",
+        "criterion",
+        "dim-9",
+        "explainability",
+        "transparency"
+      ]
+    },
+    {
+      "id": "criterion.9_5",
+      "file": "criterion__9_5.md",
+      "type": "Criterion",
+      "label": "9.5 Compliance & Regulatory Lifecycle",
+      "status": "current",
+      "keywords": [
+        "compliance",
+        "criterion",
+        "dim-9",
+        "lifecycle",
+        "regulatory"
+      ]
+    },
+    {
+      "id": "criterion.9_6",
+      "file": "criterion__9_6.md",
+      "type": "Criterion",
+      "label": "9.6 Agent Registry, Intake & Lifecycle Governance",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "criterion",
+        "dim-9",
+        "governance",
+        "intake",
+        "lifecycle",
+        "registry"
+      ]
+    },
+    {
+      "id": "chapter.00",
+      "file": "chapter__00.md",
+      "type": "Chapter",
+      "label": "Chapter 00: How to Use This Playbook",
+      "status": "current",
+      "keywords": [
+        "ch00",
+        "chapter",
+        "introduction",
+        "playbook",
+        "use"
+      ]
+    },
+    {
+      "id": "chapter.01",
+      "file": "chapter__01.md",
+      "type": "Chapter",
+      "label": "Chapter 01: Why 2026 Is Different",
+      "status": "current",
+      "keywords": [
+        "ch01",
+        "chapter",
+        "different",
+        "foundations",
+        "why"
+      ]
+    },
+    {
+      "id": "chapter.02",
+      "file": "chapter__02.md",
+      "type": "Chapter",
+      "label": "Chapter 02: How an Agentic Transformation Works",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "ch02",
+        "chapter",
+        "foundations",
+        "transformation",
+        "works"
+      ]
+    },
+    {
+      "id": "chapter.03",
+      "file": "chapter__03.md",
+      "type": "Chapter",
+      "label": "Chapter 03: Strategy, Economics & Ambition",
+      "status": "current",
+      "keywords": [
+        "ambition",
+        "ch03",
+        "chapter",
+        "economics",
+        "strategy",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.04",
+      "file": "chapter__04.md",
+      "type": "Chapter",
+      "label": "Chapter 04: Reimagining Workflows & the Autonomy Gate",
+      "status": "current",
+      "keywords": [
+        "autonomy",
+        "ch04",
+        "chapter",
+        "gate",
+        "reimagining",
+        "the-nine-dimensions",
+        "workflows"
+      ]
+    },
+    {
+      "id": "chapter.05",
+      "file": "chapter__05.md",
+      "type": "Chapter",
+      "label": "Chapter 05: The Knowledge Moat",
+      "status": "current",
+      "keywords": [
+        "ch05",
+        "chapter",
+        "knowledge",
+        "moat",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.06",
+      "file": "chapter__06.md",
+      "type": "Chapter",
+      "label": "Chapter 06: Data, Retrieval & Context",
+      "status": "current",
+      "keywords": [
+        "ch06",
+        "chapter",
+        "context",
+        "data",
+        "retrieval",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.07",
+      "file": "chapter__07.md",
+      "type": "Chapter",
+      "label": "Chapter 07: Building & Running Agents",
+      "status": "current",
+      "keywords": [
+        "agents",
+        "building",
+        "ch07",
+        "chapter",
+        "running",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.08",
+      "file": "chapter__08.md",
+      "type": "Chapter",
+      "label": "Chapter 08: The Agentic Platform & Control Plane",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "ch08",
+        "chapter",
+        "control",
+        "plane",
+        "platform",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.09",
+      "file": "chapter__09.md",
+      "type": "Chapter",
+      "label": "Chapter 09: Workforce, Enablement, Teams & Culture",
+      "status": "current",
+      "keywords": [
+        "ch09",
+        "chapter",
+        "culture",
+        "enablement",
+        "teams",
+        "the-nine-dimensions",
+        "workforce"
+      ]
+    },
+    {
+      "id": "chapter.10",
+      "file": "chapter__10.md",
+      "type": "Chapter",
+      "label": "Chapter 10: Security & the Agentic Threat Model",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "ch10",
+        "chapter",
+        "model",
+        "security",
+        "the-nine-dimensions",
+        "threat"
+      ]
+    },
+    {
+      "id": "chapter.11",
+      "file": "chapter__11.md",
+      "type": "Chapter",
+      "label": "Chapter 11: Governance & Responsible AI",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "ch11",
+        "chapter",
+        "governance",
+        "responsible",
+        "the-nine-dimensions"
+      ]
+    },
+    {
+      "id": "chapter.12",
+      "file": "chapter__12.md",
+      "type": "Chapter",
+      "label": "Chapter 12: Leading, Scaling, Tracking & Adjusting",
+      "status": "current",
+      "keywords": [
+        "adjusting",
+        "ch12",
+        "chapter",
+        "execution",
+        "leading",
+        "scaling",
+        "tracking"
+      ]
+    },
+    {
+      "id": "chapter.13",
+      "file": "chapter__13.md",
+      "type": "Chapter",
+      "label": "Chapter 13: From Template Backlog to Client Backlog",
+      "status": "current",
+      "keywords": [
+        "backlog",
+        "ch13",
+        "chapter",
+        "client",
+        "execution",
+        "template"
+      ]
+    },
+    {
+      "id": "phase.1",
+      "file": "phase__1.md",
+      "type": "EngagementPhase",
+      "label": "Phase 1: Scope & Plan",
+      "status": "current",
+      "keywords": [
+        "engagement-phase",
+        "phase",
+        "phase-1",
+        "plan",
+        "scope"
+      ]
+    },
+    {
+      "id": "phase.2",
+      "file": "phase__2.md",
+      "type": "EngagementPhase",
+      "label": "Phase 2: Frame Interviews",
+      "status": "current",
+      "keywords": [
+        "engagement-phase",
+        "frame",
+        "interviews",
+        "phase",
+        "phase-2"
+      ]
+    },
+    {
+      "id": "phase.3",
+      "file": "phase__3.md",
+      "type": "EngagementPhase",
+      "label": "Phase 3: Capture & Analyze",
+      "status": "current",
+      "keywords": [
+        "analyze",
+        "capture",
+        "engagement-phase",
+        "phase",
+        "phase-3"
+      ]
+    },
+    {
+      "id": "phase.4",
+      "file": "phase__4.md",
+      "type": "EngagementPhase",
+      "label": "Phase 4: Synthesize the As-Is",
+      "status": "current",
+      "keywords": [
+        "as-is",
+        "engagement-phase",
+        "phase",
+        "phase-4",
+        "synthesize"
+      ]
+    },
+    {
+      "id": "phase.5",
+      "file": "phase__5.md",
+      "type": "EngagementPhase",
+      "label": "Phase 5: Gap & Target",
+      "status": "current",
+      "keywords": [
+        "engagement-phase",
+        "gap",
+        "phase",
+        "phase-5",
+        "target"
+      ]
+    },
+    {
+      "id": "phase.6",
+      "file": "phase__6.md",
+      "type": "EngagementPhase",
+      "label": "Phase 6: Roadmap & Client Backlog",
+      "status": "current",
+      "keywords": [
+        "backlog",
+        "client",
+        "engagement-phase",
+        "phase",
+        "phase-6",
+        "roadmap"
+      ]
+    },
+    {
+      "id": "phase.7",
+      "file": "phase__7.md",
+      "type": "EngagementPhase",
+      "label": "Phase 7: Drive the First Waves",
+      "status": "current",
+      "keywords": [
+        "drive",
+        "engagement-phase",
+        "first",
+        "phase",
+        "phase-7",
+        "waves"
+      ]
+    },
+    {
+      "id": "phase.8",
+      "file": "phase__8.md",
+      "type": "EngagementPhase",
+      "label": "Phase 8: Deliverables & Readout",
+      "status": "current",
+      "keywords": [
+        "deliverables",
+        "engagement-phase",
+        "phase",
+        "phase-8",
+        "readout"
+      ]
+    },
+    {
+      "id": "craft.problem_first_scoping",
+      "file": "craft__problem_first_scoping.md",
+      "type": "CraftGuide",
+      "label": "Problem-First Scoping",
+      "status": "current",
+      "keywords": [
+        "craft-guide",
+        "first",
+        "problem",
+        "problem-first",
+        "scoping",
+        "wave-a"
+      ]
+    },
+    {
+      "id": "craft.evals_guardrails",
+      "file": "craft__evals_guardrails.md",
+      "type": "CraftGuide",
+      "label": "Evals & Guardrails",
+      "status": "current",
+      "keywords": [
+        "craft-guide",
+        "evals",
+        "guardrails",
+        "wave-a"
+      ]
+    },
+    {
+      "id": "craft.production_readiness",
+      "file": "craft__production_readiness.md",
+      "type": "CraftGuide",
+      "label": "Production Readiness",
+      "status": "current",
+      "keywords": [
+        "craft-guide",
+        "production",
+        "readiness",
+        "wave-a"
+      ]
+    },
+    {
+      "id": "craft.tool_design_permissioning",
+      "file": "craft__tool_design_permissioning.md",
+      "type": "CraftGuide",
+      "label": "Tool Design & Permissioning",
+      "status": "current",
+      "keywords": [
+        "craft-guide",
+        "design",
+        "permissioning",
+        "tool",
+        "wave-b"
+      ]
+    },
+    {
+      "id": "craft.retrieval_craft",
+      "file": "craft__retrieval_craft.md",
+      "type": "CraftGuide",
+      "label": "Retrieval Craft",
+      "status": "current",
+      "keywords": [
+        "craft",
+        "craft-guide",
+        "retrieval",
+        "wave-b"
+      ]
+    },
+    {
+      "id": "craft.agent_memory",
+      "file": "craft__agent_memory.md",
+      "type": "CraftGuide",
+      "label": "Agent Memory",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "craft",
+        "craft-guide",
+        "memory",
+        "wave-b"
+      ]
+    },
+    {
+      "id": "craft.observability_minimum",
+      "file": "craft__observability_minimum.md",
+      "type": "CraftGuide",
+      "label": "Observability Minimum",
+      "status": "current",
+      "keywords": [
+        "craft-guide",
+        "minimum",
+        "observability",
+        "wave-b"
+      ]
+    },
+    {
+      "id": "craft.ux_of_ai",
+      "file": "craft__ux_of_ai.md",
+      "type": "CraftGuide",
+      "label": "UX of AI",
+      "status": "current",
+      "keywords": [
+        "ai",
+        "craft-guide",
+        "ux",
+        "wave-c"
+      ]
+    },
+    {
+      "id": "craft.the_agent_spectrum_the_90_rule",
+      "file": "craft__the_agent_spectrum_the_90_rule.md",
+      "type": "CraftGuide",
+      "label": "The Agent Spectrum & the 90% Rule",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "craft-guide",
+        "rule",
+        "spectrum",
+        "wave-c"
+      ]
+    },
+    {
+      "id": "craft.role_based_enablement",
+      "file": "craft__role_based_enablement.md",
+      "type": "CraftGuide",
+      "label": "Role-Based Enablement",
+      "status": "current",
+      "keywords": [
+        "based",
+        "craft-guide",
+        "enablement",
+        "role",
+        "role-based",
+        "wave-c"
+      ]
+    },
+    {
+      "id": "template.backlog_story",
+      "file": "template__backlog_story.md",
+      "type": "Template",
+      "label": "Backlog Story",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "backlog",
+        "story",
+        "template"
+      ]
+    },
+    {
+      "id": "template.roadmap_waves",
+      "file": "template__roadmap_waves.md",
+      "type": "Template",
+      "label": "Roadmap Waves",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "roadmap",
+        "template",
+        "waves"
+      ]
+    },
+    {
+      "id": "template.value_driver_tree",
+      "file": "template__value_driver_tree.md",
+      "type": "Template",
+      "label": "Value-Driver Tree",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "driver",
+        "template",
+        "tree",
+        "value",
+        "value-driver"
+      ]
+    },
+    {
+      "id": "template.okr_kpi_mapping",
+      "file": "template__okr_kpi_mapping.md",
+      "type": "Template",
+      "label": "OKR-KPI Mapping",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "kpi",
+        "mapping",
+        "okr",
+        "okr-kpi",
+        "template"
+      ]
+    },
+    {
+      "id": "template.pairing_mode_playbook",
+      "file": "template__pairing_mode_playbook.md",
+      "type": "Template",
+      "label": "Pairing Mode Playbook",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "mode",
+        "pairing",
+        "playbook",
+        "template"
+      ]
+    },
+    {
+      "id": "template.autonomy_gate_checklist",
+      "file": "template__autonomy_gate_checklist.md",
+      "type": "Template",
+      "label": "Autonomy Gate Checklist",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "autonomy",
+        "checklist",
+        "gate",
+        "template"
+      ]
+    },
+    {
+      "id": "template.use_case_intake",
+      "file": "template__use_case_intake.md",
+      "type": "Template",
+      "label": "Use-Case Intake",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "case",
+        "intake",
+        "template",
+        "use",
+        "use-case"
+      ]
+    },
+    {
+      "id": "template.reversibility_recovery_cost_rubric",
+      "file": "template__reversibility_recovery_cost_rubric.md",
+      "type": "Template",
+      "label": "Reversibility & Recovery Cost Rubric",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "cost",
+        "recovery",
+        "reversibility",
+        "rubric",
+        "template"
+      ]
+    },
+    {
+      "id": "template.agentic_threat_model",
+      "file": "template__agentic_threat_model.md",
+      "type": "Template",
+      "label": "Agentic Threat Model",
+      "status": "current",
+      "keywords": [
+        "agentic",
+        "agentic-transformation",
+        "model",
+        "template",
+        "threat"
+      ]
+    },
+    {
+      "id": "template.skill_spec",
+      "file": "template__skill_spec.md",
+      "type": "Template",
+      "label": "Skill Spec",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "skill",
+        "spec",
+        "template"
+      ]
+    },
+    {
+      "id": "template.eval_suite",
+      "file": "template__eval_suite.md",
+      "type": "Template",
+      "label": "Eval Suite",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "eval",
+        "suite",
+        "template"
+      ]
+    },
+    {
+      "id": "template.llm_judge_calibration",
+      "file": "template__llm_judge_calibration.md",
+      "type": "Template",
+      "label": "LLM Judge Calibration",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "calibration",
+        "judge",
+        "llm",
+        "template"
+      ]
+    },
+    {
+      "id": "template.guardrail_stack",
+      "file": "template__guardrail_stack.md",
+      "type": "Template",
+      "label": "Guardrail Stack",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "guardrail",
+        "stack",
+        "template"
+      ]
+    },
+    {
+      "id": "template.production_readiness_checklist",
+      "file": "template__production_readiness_checklist.md",
+      "type": "Template",
+      "label": "Production Readiness Checklist",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "checklist",
+        "production",
+        "readiness",
+        "template"
+      ]
+    },
+    {
+      "id": "template.model_selection",
+      "file": "template__model_selection.md",
+      "type": "Template",
+      "label": "Model Selection",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "model",
+        "selection",
+        "template"
+      ]
+    },
+    {
+      "id": "template.problem_first_scoping",
+      "file": "template__problem_first_scoping.md",
+      "type": "Template",
+      "label": "Problem-First Scoping",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "first",
+        "problem",
+        "problem-first",
+        "scoping",
+        "template"
+      ]
+    },
+    {
+      "id": "template.role_based_learning_tracks",
+      "file": "template__role_based_learning_tracks.md",
+      "type": "Template",
+      "label": "Role-Based Learning Tracks",
+      "status": "current",
+      "keywords": [
+        "agentic-transformation",
+        "based",
+        "learning",
+        "role",
+        "role-based",
+        "template",
+        "tracks"
+      ]
+    },
+    {
+      "id": "template.engagement_state",
+      "file": "template__engagement_state.md",
+      "type": "Template",
+      "label": "Engagement State",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "engagement",
+        "state",
+        "template"
+      ]
+    },
+    {
+      "id": "template.engagement_plan",
+      "file": "template__engagement_plan.md",
+      "type": "Template",
+      "label": "Engagement Plan",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "engagement",
+        "plan",
+        "template"
+      ]
+    },
+    {
+      "id": "template.stakeholder_map",
+      "file": "template__stakeholder_map.md",
+      "type": "Template",
+      "label": "Stakeholder Map",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "map",
+        "stakeholder",
+        "template"
+      ]
+    },
+    {
+      "id": "template.interview_guide",
+      "file": "template__interview_guide.md",
+      "type": "Template",
+      "label": "Interview Guide",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "guide",
+        "interview",
+        "template"
+      ]
+    },
+    {
+      "id": "template.interview_log",
+      "file": "template__interview_log.md",
+      "type": "Template",
+      "label": "Interview Log",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "interview",
+        "log",
+        "template"
+      ]
+    },
+    {
+      "id": "template.as_is_findings",
+      "file": "template__as_is_findings.md",
+      "type": "Template",
+      "label": "As-Is Findings",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "as-is",
+        "findings",
+        "template"
+      ]
+    },
+    {
+      "id": "template.gap_analysis",
+      "file": "template__gap_analysis.md",
+      "type": "Template",
+      "label": "Gap Analysis",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "analysis",
+        "gap",
+        "template"
+      ]
+    },
+    {
+      "id": "template.readout_deck_storyline",
+      "file": "template__readout_deck_storyline.md",
+      "type": "Template",
+      "label": "Readout Deck Storyline",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "deck",
+        "readout",
+        "storyline",
+        "template"
+      ]
+    },
+    {
+      "id": "template.executive_summary",
+      "file": "template__executive_summary.md",
+      "type": "Template",
+      "label": "Executive Summary",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "doc",
+        "exec",
+        "executive",
+        "summary",
+        "template"
+      ]
+    },
+    {
+      "id": "template.next_steps_memo",
+      "file": "template__next_steps_memo.md",
+      "type": "Template",
+      "label": "Next Steps Memo",
+      "status": "current",
+      "keywords": [
+        "ai-transformation-consultant",
+        "memo",
+        "next",
+        "steps",
+        "template"
+      ]
+    },
+    {
+      "id": "concept.agent",
+      "file": "concept__agent.md",
+      "type": "Concept",
+      "label": "Agent",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "concept",
+        "glossary"
+      ]
+    },
+    {
+      "id": "concept.skill",
+      "file": "concept__skill.md",
+      "type": "Concept",
+      "label": "Skill",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "skill"
+      ]
+    },
+    {
+      "id": "concept.skills_as_documentation",
+      "file": "concept__skills_as_documentation.md",
+      "type": "Concept",
+      "label": "Skills-as-Documentation",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "skills-as-documentation"
+      ]
+    },
+    {
+      "id": "concept.harness",
+      "file": "concept__harness.md",
+      "type": "Concept",
+      "label": "Harness",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "harness"
+      ]
+    },
+    {
+      "id": "concept.capability_ladder",
+      "file": "concept__capability_ladder.md",
+      "type": "Concept",
+      "label": "Capability Ladder",
+      "status": "current",
+      "keywords": [
+        "capability",
+        "concept",
+        "glossary",
+        "ladder"
+      ]
+    },
+    {
+      "id": "concept.autonomy_ladder",
+      "file": "concept__autonomy_ladder.md",
+      "type": "Concept",
+      "label": "Autonomy Ladder",
+      "status": "current",
+      "keywords": [
+        "autonomy",
+        "concept",
+        "glossary",
+        "ladder"
+      ]
+    },
+    {
+      "id": "concept.autonomy_gate",
+      "file": "concept__autonomy_gate.md",
+      "type": "Concept",
+      "label": "Autonomy Gate",
+      "status": "current",
+      "keywords": [
+        "autonomy",
+        "concept",
+        "gate",
+        "glossary"
+      ]
+    },
+    {
+      "id": "concept.mcp_a2a",
+      "file": "concept__mcp_a2a.md",
+      "type": "Concept",
+      "label": "MCP / A2A",
+      "status": "current",
+      "keywords": [
+        "a2a",
+        "concept",
+        "glossary",
+        "mcp"
+      ]
+    },
+    {
+      "id": "concept.control_plane",
+      "file": "concept__control_plane.md",
+      "type": "Concept",
+      "label": "Control Plane",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "control",
+        "glossary",
+        "plane"
+      ]
+    },
+    {
+      "id": "concept.durable_execution",
+      "file": "concept__durable_execution.md",
+      "type": "Concept",
+      "label": "Durable Execution",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "durable",
+        "execution",
+        "glossary"
+      ]
+    },
+    {
+      "id": "concept.agent_washing",
+      "file": "concept__agent_washing.md",
+      "type": "Concept",
+      "label": "Agent-Washing",
+      "status": "current",
+      "keywords": [
+        "agent-washing",
+        "concept",
+        "glossary"
+      ]
+    },
+    {
+      "id": "concept.the_two_moats",
+      "file": "concept__the_two_moats.md",
+      "type": "Concept",
+      "label": "The Two Moats",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "moats",
+        "two"
+      ]
+    },
+    {
+      "id": "concept.build_to_delete",
+      "file": "concept__build_to_delete.md",
+      "type": "Concept",
+      "label": "Build-to-Delete",
+      "status": "current",
+      "keywords": [
+        "build-to-delete",
+        "concept",
+        "glossary"
+      ]
+    },
+    {
+      "id": "concept.template_vs_client_backlog",
+      "file": "concept__template_vs_client_backlog.md",
+      "type": "Concept",
+      "label": "Template vs Client Backlog",
+      "status": "current",
+      "keywords": [
+        "backlog",
+        "client",
+        "concept",
+        "glossary",
+        "template"
+      ]
+    },
+    {
+      "id": "concept.knowledge_moat",
+      "file": "concept__knowledge_moat.md",
+      "type": "Concept",
+      "label": "Knowledge Moat",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "knowledge",
+        "moat"
+      ]
+    },
+    {
+      "id": "concept.the_90_rule",
+      "file": "concept__the_90_rule.md",
+      "type": "Concept",
+      "label": "The 90% Rule",
+      "status": "current",
+      "keywords": [
+        "concept",
+        "glossary",
+        "rule"
+      ]
+    },
+    {
+      "id": "concept.augmentation_first",
+      "file": "concept__augmentation_first.md",
+      "type": "Concept",
+      "label": "Augmentation-First",
+      "status": "current",
+      "keywords": [
+        "augmentation-first",
+        "concept",
+        "glossary"
+      ]
+    },
+    {
+      "id": "block.1",
+      "file": "block__1.md",
+      "type": "BuildingBlock",
+      "label": "Block 1: Strategy, Roadmap & Economics",
+      "status": "current",
+      "keywords": [
+        "block",
+        "building",
+        "building-block",
+        "economics",
+        "roadmap",
+        "strategy"
+      ]
+    },
+    {
+      "id": "block.2",
+      "file": "block__2.md",
+      "type": "BuildingBlock",
+      "label": "Block 2: Reimagine the Work",
+      "status": "current",
+      "keywords": [
+        "block",
+        "building",
+        "building-block",
+        "reimagine",
+        "work"
+      ]
+    },
+    {
+      "id": "block.3",
+      "file": "block__3.md",
+      "type": "BuildingBlock",
+      "label": "Block 3: The Moats: Knowledge & Data",
+      "status": "current",
+      "keywords": [
+        "block",
+        "building",
+        "building-block",
+        "data",
+        "knowledge",
+        "moats"
+      ]
+    },
+    {
+      "id": "block.4",
+      "file": "block__4.md",
+      "type": "BuildingBlock",
+      "label": "Block 4: The Agent Operating Model & Technology",
+      "status": "current",
+      "keywords": [
+        "agent",
+        "block",
+        "building",
+        "building-block",
+        "model",
+        "operating",
+        "technology"
+      ]
+    },
+    {
+      "id": "block.5",
+      "file": "block__5.md",
+      "type": "BuildingBlock",
+      "label": "Block 5: Talent & Operating Model",
+      "status": "current",
+      "keywords": [
+        "block",
+        "building",
+        "building-block",
+        "model",
+        "operating",
+        "talent"
+      ]
+    },
+    {
+      "id": "block.6",
+      "file": "block__6.md",
+      "type": "BuildingBlock",
+      "label": "Block 6: Trust: Security, Risk & Governance",
+      "status": "current",
+      "keywords": [
+        "block",
+        "building",
+        "building-block",
+        "governance",
+        "risk",
+        "security",
+        "trust"
+      ]
+    },
+    {
+      "id": "block.7",
+      "file": "block__7.md",
+      "type": "BuildingBlock",
+      "label": "Block 7: Adoption, Scaling & Impact",
+      "status": "current",
+      "keywords": [
+        "adoption",
+        "block",
+        "building",
+        "building-block",
+        "impact",
+        "scaling"
+      ]
+    },
+    {
+      "id": "method.mckinsey_method",
+      "file": "method__mckinsey_method.md",
+      "type": "Method",
+      "label": "McKinsey Method",
+      "status": "current",
+      "keywords": [
+        "consulting",
+        "mckinsey",
+        "method"
+      ]
+    },
+    {
+      "id": "method.interview_method",
+      "file": "method__interview_method.md",
+      "type": "Method",
+      "label": "Interview Method",
+      "status": "current",
+      "keywords": [
+        "consulting",
+        "interview",
+        "method"
+      ]
+    },
+    {
+      "id": "method.analysis_method",
+      "file": "method__analysis_method.md",
+      "type": "Method",
+      "label": "Analysis Method",
+      "status": "current",
+      "keywords": [
+        "analysis",
+        "consulting",
+        "method"
+      ]
+    },
+    {
+      "id": "method.deliverable_standards",
+      "file": "method__deliverable_standards.md",
+      "type": "Method",
+      "label": "Deliverable Standards",
+      "status": "current",
+      "keywords": [
+        "consulting",
+        "deliverable",
+        "method",
+        "standards"
+      ]
+    },
+    {
+      "id": "method.diagram_toolkit",
+      "file": "method__diagram_toolkit.md",
+      "type": "Method",
+      "label": "Diagram Toolkit",
+      "status": "current",
+      "keywords": [
+        "consulting",
+        "diagram",
+        "method",
+        "toolkit"
+      ]
+    },
+    {
+      "id": "method.state_management",
+      "file": "method__state_management.md",
+      "type": "Method",
+      "label": "State Management",
+      "status": "current",
+      "keywords": [
+        "consulting",
+        "management",
+        "method",
+        "state"
+      ]
+    }
+  ]
+}
