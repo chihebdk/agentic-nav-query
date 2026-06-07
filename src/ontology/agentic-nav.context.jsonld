@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "atn": "https://agentic-nav.ravl.io/kg/",
+    "id": "@id",
+    "type": "@type",
+    "label": "rdfs:label",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "has_criterion": {
+      "@id": "atn:has_criterion",
+      "@type": "@id"
+    },
+    "criterion_of": {
+      "@id": "atn:criterion_of",
+      "@type": "@id"
+    },
+    "covers_dimension": {
+      "@id": "atn:covers_dimension",
+      "@type": "@id"
+    },
+    "covered_by_chapter": {
+      "@id": "atn:covered_by_chapter",
+      "@type": "@id"
+    },
+    "references_criterion": {
+      "@id": "atn:references_criterion",
+      "@type": "@id"
+    },
+    "referenced_by": {
+      "@id": "atn:referenced_by",
+      "@type": "@id"
+    },
+    "applies_to_phase": {
+      "@id": "atn:applies_to_phase",
+      "@type": "@id"
+    },
+    "uses_method": {
+      "@id": "atn:uses_method",
+      "@type": "@id"
+    },
+    "produces_artifact": {
+      "@id": "atn:produces_artifact",
+      "@type": "@id"
+    },
+    "produced_in_phase": {
+      "@id": "atn:produced_in_phase",
+      "@type": "@id"
+    },
+    "supports_craft": {
+      "@id": "atn:supports_craft",
+      "@type": "@id"
+    },
+    "supported_by_craft": {
+      "@id": "atn:supported_by_craft",
+      "@type": "@id"
+    },
+    "depends_on": {
+      "@id": "atn:depends_on",
+      "@type": "@id"
+    },
+    "precedes": {
+      "@id": "atn:precedes",
+      "@type": "@id"
+    },
+    "follows": {
+      "@id": "atn:follows",
+      "@type": "@id"
+    },
+    "maps_to_dimension": {
+      "@id": "atn:maps_to_dimension",
+      "@type": "@id"
+    },
+    "mapped_from_block": {
+      "@id": "atn:mapped_from_block",
+      "@type": "@id"
+    },
+    "related_to": {
+      "@id": "atn:related_to",
+      "@type": "@id"
+    },
+    "exemplifies": {
+      "@id": "atn:exemplifies",
+      "@type": "@id"
+    },
+    "exemplified_by": {
+      "@id": "atn:exemplified_by",
+      "@type": "@id"
+    },
+    "uses_template": {
+      "@id": "atn:uses_template",
+      "@type": "@id"
+    },
+    "used_by": {
+      "@id": "atn:used_by",
+      "@type": "@id"
+    },
+    "cross_references": {
+      "@id": "atn:cross_references",
+      "@type": "@id"
+    },
+    "part_of": {
+      "@id": "atn:part_of",
+      "@type": "@id"
+    },
+    "contains": {
+      "@id": "atn:contains",
+      "@type": "@id"
+    },
+    "asOf": {
+      "@id": "atn:asOf",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "validFrom": {
+      "@id": "atn:validFrom",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "validTo": {
+      "@id": "atn:validTo",
+      "@type": "http://www.w3.org/2001/XMLSchema#date"
+    },
+    "status": {
+      "@id": "atn:status"
+    },
+    "supersedes": {
+      "@id": "atn:supersedes",
+      "@type": "@id"
+    },
+    "supersededBy": {
+      "@id": "atn:supersededBy",
+      "@type": "@id"
+    },
+    "sourceDoc": {
+      "@id": "atn:sourceDoc"
+    }
+  },
+  "classes": [
+    "atn:Dimension",
+    "atn:Criterion",
+    "atn:Chapter",
+    "atn:CraftGuide",
+    "atn:Template",
+    "atn:EngagementPhase",
+    "atn:Method",
+    "atn:Concept",
+    "atn:BuildingBlock"
+  ],
+  "properties": [
+    "atn:has_criterion",
+    "atn:criterion_of",
+    "atn:covers_dimension",
+    "atn:covered_by_chapter",
+    "atn:references_criterion",
+    "atn:referenced_by",
+    "atn:applies_to_phase",
+    "atn:uses_method",
+    "atn:produces_artifact",
+    "atn:produced_in_phase",
+    "atn:supports_craft",
+    "atn:supported_by_craft",
+    "atn:depends_on",
+    "atn:precedes",
+    "atn:follows",
+    "atn:maps_to_dimension",
+    "atn:mapped_from_block",
+    "atn:related_to",
+    "atn:exemplifies",
+    "atn:exemplified_by",
+    "atn:uses_template",
+    "atn:used_by",
+    "atn:cross_references",
+    "atn:part_of",
+    "atn:contains"
+  ],
+  "temporal_properties": [
+    "atn:asOf",
+    "atn:validFrom",
+    "atn:validTo",
+    "atn:status",
+    "atn:supersedes",
+    "atn:supersededBy",
+    "atn:sourceDoc"
+  ]
+}

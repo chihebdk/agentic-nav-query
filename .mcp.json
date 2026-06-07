@@ -1,0 +1,10 @@
+{
+  "_comment": "Ships at the ROOT of the QUERY repo. Used only if a consumer clones the query repo AS their workspace (in-place mode) instead of the cache-dir model.",
+  "mcpServers": {
+    "agentic-nav-kg": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["src/semantic/mcp_server.py"]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+@prefix atn: <https://agentic-nav.ravl.io/kg/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+atn: a owl:Ontology ; rdfs:label "Agentic Transformation Navigator Ontology" .
+
+atn:Dimension a owl:Class ; rdfs:label "Dimension" ; rdfs:comment "One of the nine assessment dimensions — a major capability area scored in the maturity model (e.g., Strategy, Knowledge, Data, Build, Platform, Workflow, Workforce, Security, Governance)." .
+atn:Criterion a owl:Class ; rdfs:label "Criterion" ; rdfs:comment "A specific, scoreable criterion within a dimension (e.g., 1.1 AI Vision). Has L1-L5 maturity anchors and probing questions stored as attributes." .
+atn:Chapter a owl:Class ; rdfs:label "Chapter" ; rdfs:comment "A playbook chapter — a narrative unit teaching one or more dimensions with recommendations, anti-patterns, case vignettes, and a backlog slice." .
+atn:CraftGuide a owl:Class ; rdfs:label "CraftGuide" ; rdfs:comment "A deep how-to reference on a specific build or operations topic (e.g., evals-and-guardrails, retrieval-craft, production-readiness)." .
+atn:Template a owl:Class ; rdfs:label "Template" ; rdfs:comment "A reusable artifact template grounded in the methodology (e.g., backlog-story, roadmap-waves, threat-model, autonomy-gate-checklist)." .
+atn:EngagementPhase a owl:Class ; rdfs:label "EngagementPhase" ; rdfs:comment "One of the 8 phases of the consulting engagement workflow (Scope, Frame, Capture, Synthesize, Gap, Roadmap, Drive, Deliver)." .
+atn:Method a owl:Class ; rdfs:label "Method" ; rdfs:comment "A consulting methodology or principle applied throughout the engagement (McKinsey method, interview method, analysis method, deliverable standards, diagram toolkit, state management)." .
+atn:Concept a owl:Class ; rdfs:label "Concept" ; rdfs:comment "A named idea, principle, or construct in the transformation vocabulary (e.g., autonomy gate, build-to-delete, the 90% rule, knowledge moat, SCQA)." .
+atn:BuildingBlock a owl:Class ; rdfs:label "BuildingBlock" ; rdfs:comment "One of the seven corrected Rewired building blocks in the narrative journey model that map to dimensions." .
+
+atn:has_criterion a owl:ObjectProperty ; rdfs:label "has_criterion" ; rdfs:domain atn:Dimension ; rdfs:range atn:Criterion ; rdfs:comment "Dimension contains this criterion." ; owl:inverseOf atn:criterion_of .
+atn:criterion_of a owl:ObjectProperty ; rdfs:label "criterion_of" ; rdfs:domain atn:Criterion ; rdfs:range atn:Dimension ; rdfs:comment "Criterion belongs to this dimension." ; owl:inverseOf atn:has_criterion .
+atn:covers_dimension a owl:ObjectProperty ; rdfs:label "covers_dimension" ; rdfs:domain atn:Chapter ; rdfs:range atn:Dimension ; rdfs:comment "Chapter teaches or covers this dimension." ; owl:inverseOf atn:covered_by_chapter .
+atn:covered_by_chapter a owl:ObjectProperty ; rdfs:label "covered_by_chapter" ; rdfs:domain atn:Dimension ; rdfs:range atn:Chapter ; rdfs:comment "Dimension is taught in this chapter." ; owl:inverseOf atn:covers_dimension .
+atn:references_criterion a owl:ObjectProperty ; rdfs:label "references_criterion" ; rdfs:domain atn:Chapter, atn:CraftGuide, atn:Template, atn:Method ; rdfs:range atn:Criterion ; rdfs:comment "Content references or supports this criterion." ; owl:inverseOf atn:referenced_by .
+atn:referenced_by a owl:ObjectProperty ; rdfs:label "referenced_by" ; rdfs:domain atn:Criterion ; rdfs:range atn:Chapter, atn:CraftGuide, atn:Template, atn:Method ; rdfs:comment "Criterion is referenced by this content." ; owl:inverseOf atn:references_criterion .
+atn:applies_to_phase a owl:ObjectProperty ; rdfs:label "applies_to_phase" ; rdfs:domain atn:Method, atn:Template, atn:CraftGuide ; rdfs:range atn:EngagementPhase ; rdfs:comment "Method/template/guide applies in this engagement phase." ; owl:inverseOf atn:uses_method .
+atn:uses_method a owl:ObjectProperty ; rdfs:label "uses_method" ; rdfs:domain atn:EngagementPhase ; rdfs:range atn:Method, atn:Template, atn:CraftGuide ; rdfs:comment "Phase uses this method, template, or guide." ; owl:inverseOf atn:applies_to_phase .
+atn:produces_artifact a owl:ObjectProperty ; rdfs:label "produces_artifact" ; rdfs:domain atn:EngagementPhase ; rdfs:range atn:Template ; rdfs:comment "Phase produces artifacts using this template." ; owl:inverseOf atn:produced_in_phase .
+atn:produced_in_phase a owl:ObjectProperty ; rdfs:label "produced_in_phase" ; rdfs:domain atn:Template ; rdfs:range atn:EngagementPhase ; rdfs:comment "Template is used/produced in this phase." ; owl:inverseOf atn:produces_artifact .
+atn:supports_craft a owl:ObjectProperty ; rdfs:label "supports_craft" ; rdfs:domain atn:CraftGuide ; rdfs:range atn:Criterion, atn:Dimension ; rdfs:comment "Craft guide supports these criteria or dimensions." ; owl:inverseOf atn:supported_by_craft .
+atn:supported_by_craft a owl:ObjectProperty ; rdfs:label "supported_by_craft" ; rdfs:domain atn:Criterion, atn:Dimension ; rdfs:range atn:CraftGuide ; rdfs:comment "Criterion/dimension is supported by this craft guide." ; owl:inverseOf atn:supports_craft .
+atn:depends_on a owl:ObjectProperty ; rdfs:label "depends_on" ; rdfs:domain atn:EngagementPhase ; rdfs:range atn:EngagementPhase ; rdfs:comment "Phase depends on prior phase completion." .
+atn:precedes a owl:ObjectProperty ; rdfs:label "precedes" ; rdfs:domain atn:EngagementPhase, atn:Chapter ; rdfs:range atn:EngagementPhase, atn:Chapter ; rdfs:comment "Sequencing — this comes before." ; owl:inverseOf atn:follows .
+atn:follows a owl:ObjectProperty ; rdfs:label "follows" ; rdfs:domain atn:EngagementPhase, atn:Chapter ; rdfs:range atn:EngagementPhase, atn:Chapter ; rdfs:comment "Sequencing — this comes after." ; owl:inverseOf atn:precedes .
+atn:maps_to_dimension a owl:ObjectProperty ; rdfs:label "maps_to_dimension" ; rdfs:domain atn:BuildingBlock ; rdfs:range atn:Dimension ; rdfs:comment "Building block maps to these dimensions." ; owl:inverseOf atn:mapped_from_block .
+atn:mapped_from_block a owl:ObjectProperty ; rdfs:label "mapped_from_block" ; rdfs:domain atn:Dimension ; rdfs:range atn:BuildingBlock ; rdfs:comment "Dimension is mapped from this building block." ; owl:inverseOf atn:maps_to_dimension .
+atn:related_to a owl:ObjectProperty ; rdfs:label "related_to" ; rdfs:domain atn:Concept, atn:CraftGuide, atn:Template, atn:Criterion, atn:Dimension ; rdfs:range atn:Concept, atn:CraftGuide, atn:Template, atn:Criterion, atn:Dimension ; rdfs:comment "Semantic link between knowledge items." .
+atn:exemplifies a owl:ObjectProperty ; rdfs:label "exemplifies" ; rdfs:domain atn:Concept ; rdfs:range atn:Criterion, atn:Dimension ; rdfs:comment "Concept exemplifies or is central to a criterion or dimension." ; owl:inverseOf atn:exemplified_by .
+atn:exemplified_by a owl:ObjectProperty ; rdfs:label "exemplified_by" ; rdfs:domain atn:Criterion, atn:Dimension ; rdfs:range atn:Concept ; rdfs:comment "Criterion/dimension is exemplified by this concept." ; owl:inverseOf atn:exemplifies .
+atn:uses_template a owl:ObjectProperty ; rdfs:label "uses_template" ; rdfs:domain atn:CraftGuide, atn:Method, atn:EngagementPhase ; rdfs:range atn:Template ; rdfs:comment "Guide/method/phase uses this template." ; owl:inverseOf atn:used_by .
+atn:used_by a owl:ObjectProperty ; rdfs:label "used_by" ; rdfs:domain atn:Template ; rdfs:range atn:CraftGuide, atn:Method, atn:EngagementPhase ; rdfs:comment "Template is used by this guide/method/phase." ; owl:inverseOf atn:uses_template .
+atn:cross_references a owl:ObjectProperty ; rdfs:label "cross_references" ; rdfs:domain atn:Criterion ; rdfs:range atn:Criterion ; rdfs:comment "Criterion cross-references another (e.g., Dim 5.5 ties to Dim 8)." .
+atn:part_of a owl:ObjectProperty ; rdfs:label "part_of" ; rdfs:domain atn:Concept ; rdfs:range atn:Concept ; rdfs:comment "Concept is part of a larger concept." ; owl:inverseOf atn:contains .
+atn:contains a owl:ObjectProperty ; rdfs:label "contains" ; rdfs:domain atn:Concept ; rdfs:range atn:Concept ; rdfs:comment "Concept contains sub-concepts." ; owl:inverseOf atn:part_of .
+
+# --- temporal & provenance annotation properties ---
+atn:asOf a owl:DatatypeProperty ; rdfs:label "asOf" ; rdfs:comment "When this fact was recorded/observed (transaction time)." ; rdfs:range xsd:date .
+atn:validFrom a owl:DatatypeProperty ; rdfs:label "validFrom" ; rdfs:comment "When the fact became true in the world (valid time)." ; rdfs:range xsd:date .
+atn:validTo a owl:DatatypeProperty ; rdfs:label "validTo" ; rdfs:comment "When the fact stopped being true; absent = still holds." ; rdfs:range xsd:date .
+atn:status a owl:DatatypeProperty ; rdfs:label "status" ; rdfs:comment "current | superseded | proposed." ; rdfs:range xsd:string .
+atn:supersedes a owl:ObjectProperty ; rdfs:label "supersedes" ; rdfs:comment "The entity/claim this fact replaces." ; owl:inverseOf atn:supersededBy .
+atn:supersededBy a owl:ObjectProperty ; rdfs:label "supersededBy" ; rdfs:comment "The newer fact that retired this one." .
+atn:sourceDoc a owl:DatatypeProperty ; rdfs:label "sourceDoc" ; rdfs:comment "Slug of the document that introduced/changed this fact." ; rdfs:range xsd:string .
